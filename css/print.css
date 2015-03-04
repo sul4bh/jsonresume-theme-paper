@@ -24,7 +24,7 @@ header p {
 }
 
 .profiles {
-  display:none;
+  /*display:none;*/
 }
 
 .content {
@@ -73,7 +73,7 @@ header p, .content-text, .work-listing p, .content-text ul li:first-child, .work
 }
 
 .profiles-listing ul li:first-child {
-  width:32%;
+  /*width:32%;*/
 }
 
 div.content-text.skills-listing > ul > li {
@@ -115,4 +115,8 @@ div.content-text.skills-listing > ul > li:first-child {
 
 .big-text {
   padding-top: 0;
+}
+
+.content-text.summary ul li{
+    width:100%;
 }

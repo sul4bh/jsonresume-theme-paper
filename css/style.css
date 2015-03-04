@@ -264,6 +264,10 @@ div.content-text.work-listing.education-listing > p:nth-child(2) {
   margin-left:3.25em;
 }
 
+.highlight.more-indent{
+    margin-left:4.25em;
+}
+
 .highlight {
   transition: border .33s ease-in;
 }
@@ -271,6 +275,10 @@ div.content-text.work-listing.education-listing > p:nth-child(2) {
 .profiles-listing ul li, .profiles-listing ul li:first-child {
   width:32%;
   font-weight: normal;
+}
+
+.content-text.summary ul li{
+    width:100%;
 }
 
 .work-content, .education-content {
